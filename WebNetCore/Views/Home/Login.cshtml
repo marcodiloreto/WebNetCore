@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Log in";
+ 
+}
+
+<div class="container justify-content-center" >
+    <div class="text-center">
+        <h1 class="display-4">Ingrese sus Credenciales de usuario</h1>
+    </div>
+    <div class="card col-3 mx-auto">
+
+        <form class="d-block mx-auto" asp-controller="home" asp-action="loguear" method="post">
+            <div class="row">
+                <input type="text" name="userName" placeholder="Usuario" />
+            </div>
+            <div class="row">
+                <input type="password" name="password" placeholder="********" />
+            </div>
+            <div class="row justify-content-end">
+                <input class="btn-outline-info" type="submit" value="Log in" />
+            </div>
+        </form>
+    </div>
+    @{ 
+        if (ViewBag.error != null) { 
+        <h2 class="display-4 text-danger"> @ViewBag.error </h2>
+        }
+    }
+</div>

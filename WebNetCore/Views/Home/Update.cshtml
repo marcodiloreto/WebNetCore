@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Cambiar constraseña";
+}
+<div class="container justify-content-center">
+    <div class="text-center">
+        <h1 class="display-4"> Registrate!</h1>
+    </div>
+    <div class="card col-3 mx-auto">
+
+        <form class="d-block mx-auto" asp-controller="home" asp-action="cambiaPass" method="post">
+            <div class="row">
+                <input type="password" name="password" placeholder="Contraseña vieja" />
+            </div>
+            <div class="row">
+                <input type="password" name="newPassword" placeholder="Contraseña nueva" />
+            </div>
+
+            <div class="row">
+                <input type="password" name="newPassword2" placeholder="Confirma nueva contraseña" />
+            </div>
+
+            <div class="row justify-content-end">
+                <input class="btn-outline-info" type="submit" value="Cambia" />
+            </div>
+        </form>
+    </div>
+    @{
+        if (ViewBag.error != null)
+        {
+            <small class="text-danger"> @ViewBag.error </small>
+        }
+    }
+</div>

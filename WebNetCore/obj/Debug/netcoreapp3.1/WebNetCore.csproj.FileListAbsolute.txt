@@ -1,0 +1,97 @@
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.exe
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.deps.json
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.runtimeconfig.json
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.runtimeconfig.dev.json
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.dll
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.pdb
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.Views.dll
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.Views.pdb
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.AssemblyInfo.cs
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.RazorAssemblyInfo.cache
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.RazorAssemblyInfo.cs
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\staticwebassets\WebNetCore.StaticWebAssets.Manifest.cache
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\staticwebassets\WebNetCore.StaticWebAssets.xml
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebNetCore.styles.css
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.TagHelpers.input.cache
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.TagHelpers.output.cache
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.RazorCoreGenerate.cache
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.RazorTargetAssemblyInfo.cs
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.Views.pdb
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.dll
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.pdb
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.genruntimeconfig.cache
+C:\Users\Marco\Desktop\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.csproj.CopyComplete
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.AssemblyInfo.cs
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.RazorAssemblyInfo.cache
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.RazorAssemblyInfo.cs
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.pdb
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.exe
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.deps.json
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.runtimeconfig.json
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.runtimeconfig.dev.json
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.pdb
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.Views.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\WebNetCore.Views.pdb
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\staticwebassets\WebNetCore.StaticWebAssets.Manifest.cache
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\staticwebassets\WebNetCore.StaticWebAssets.xml
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebNetCore.styles.css
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.TagHelpers.input.cache
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.TagHelpers.output.cache
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.RazorCoreGenerate.cache
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.RazorTargetAssemblyInfo.cs
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.Views.pdb
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.genruntimeconfig.cache
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\WebNetCore.csproj.CopyComplete
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Update.cshtml.g.cs
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Marco\Desktop\academicos\Cuat4\Plataformas de desarrollo\WebNetCore\WebNetCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

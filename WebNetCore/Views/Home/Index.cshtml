@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home page";
+}
+
+<h1>Welcome!</h1>
+<p>Esto va a estar mucho mas lindo para la entrega final, por ahora es un front muy pedorro y el back completo</p>
+@{
+    
+    
+    if (ViewBag.pay != null)
+    {
+        if (ViewBag.pay)
+        {
+            <h1 class="text-success">Estas listo para usar FFMPEG Translator!!</h1>
+        }
+        else
+        {
+            <h1 class="text-danger">Deberás validar una clave antes de poder utlizar FFMPEG Translator</h1>
+        }
+    }
+}

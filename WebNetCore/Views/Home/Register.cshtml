@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+<div class="container justify-content-center">
+    <div class="text-center">
+        <h1 class="display-4"> Registrate!</h1>
+    </div>
+    <div class="card col-3 mx-auto">
+
+        <form class="d-block mx-auto" asp-controller="home" asp-action="registrar" method="post">
+            <div class="row">
+                <input type="text" name="userName" placeholder="User name" />
+            </div>
+            <div class="row">
+                <input type="password" name="password" placeholder="password" />
+            </div>
+
+            <div class="row">
+                <input type="password" name="password2" placeholder="confirm password" />
+            </div>
+
+            <div class="row justify-content-end">
+                <input class="btn-outline-info" type="submit" value="Register!" />
+            </div>
+        </form>
+    </div>
+    @{
+        if (ViewBag.error != null) {
+            <small class="text-danger"> @ViewBag.error </small>
+        }
+    }
+</div>
