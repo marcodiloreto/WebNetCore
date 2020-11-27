@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http.Extensions;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Routing;
 using System;
 using System.Collections.Generic;
@@ -91,9 +92,43 @@ namespace WebNetCore.DAOs
 
             return usuario;
         }
+        
+        public Boolean validarKey(String key,String name) { 
+        var QB = DB.getQueryBuilder();
+            QB.setQuery("SELECT * FROM llaves WHERE id=@key");
+            QB.addParam("@key", key);
+            IDataReader reader = DB.select(QB);
+            var validado = false;
+            while (reader.Read())
+            {
+                if (!reader.GetBoolean(1))
+                {
+                    var QB2 = DB.getQueryBuilder();
+                    QB2.setQuery("UPDATE llaves SET used=1 WHERE id=@key");
+                    QB2.addParam("@key", key);
+                    DB.abm(QB2);
+
+                    var QB3 = DB.getQueryBuilder();
+                    QB3.setQuery("UPDATE usuario SET pay=1 WHERE name=@name");
+                    QB3.addParam("@name", name);
+                    DB.abm(QB3);
+
+                    validado = true;
+                    
+                }
+                
+
+            }
+            reader.Close();
+            return validado;
+        }
         public Boolean checkPay(String user) {
             var usuario = cargarUsuario(user);
-            return usuario.getPay();
+            if (usuario != null)
+            {
+                return usuario.getPay();
+            }
+            return false;
         }
 
         //Update
